@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Feedback Cooling Code
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kaiwen
+    family-names: Zhu
+    email: kaiwen.zhu@anu.edu.au
+    affiliation: The Australian National University
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/kozse/Feedback-Cooling-of-Incoherent-Quantum-Mixtures/tree/main
+repository-code: >-
+  https://github.com/kozse/Feedback-Cooling-of-Incoherent-Quantum-Mixtures/tree/main
